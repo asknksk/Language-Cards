@@ -13,11 +13,11 @@ I started experimenting with State structures with React. My goal in this Projec
 <hr>
 
 ## Project Preview 
-![Alt Text]()
+![Alt Text](https://github.com/asknksk/Language-Cards/blob/master/src/assets/Preview.gif)
 
 <hr> 
 
 ## Project Link
-<a href="https://language-cards-app.netlify.app/" target="_blank">Netlify Link</a> to access my project.
+<a href="https://language-cards-app.netlify.app/" target="_blank">Netlify Link</a> to access my project. <br>
 <a href="https://language-cards-gamma.vercel.app/" target="_blank">Vercel Link</a> to access my project.
 
